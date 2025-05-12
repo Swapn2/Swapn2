@@ -29,12 +29,12 @@
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Programming** | Python, C/C++, MySQL |
-| **Simulation & Modeling** | Aspen Plus, HYSYS, DWSIM, MATLAB |
+| **Programming** | Python, C, MySQL |
+| **Simulation & Modeling** | Aspen Plus, HYSYS, DWSIM, |
 | **ML & Data Science** | Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib |
 | **Web & GUI Development** | Flask, Streamlit, GUI (Tkinter/PyQt), REST APIs |
 | **Tools** | Git, Jupyter, Colab, XAMPP, phpMyAdmin |
-| **Specialized Skills** | Time Series Forecasting, MILP, KNN, ODE Modeling |
+| **Specialized Skills** | Time Series Forecasting, KNN, ODE Modeling |
 
 ---
 
