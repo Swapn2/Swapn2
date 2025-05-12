@@ -13,7 +13,6 @@
 - 💡 Passionate about **Digital Process Modeling**, **AI for Sustainable Manufacturing**, and **Data-Driven Optimization**  
 - 🔭 Majorly inclined towards **Machine Learning** and **Data Science**, with a strong focus on leveraging them to solve complex **industrial problems** through simulation, optimization, and intelligent system design  
 - 📈 GATE 2025 Qualified – **Chemical Engineering**  
-- 🗾 Culturally inspired by Japanese efficiency and innovation in engineering 🇯🇵
 
 ---
 
