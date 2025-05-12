@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Swapn Gupta 👋</h1>
 
-<!--
-**Swapn2/Swapn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Chemical+Engineer+%7C+Aspiring+AI+Engineer;Simulation+%26+Data+Driven+Researcher;Python+%7C+Aspen+%7C+Machine+Learning+%7C+HYSYS" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **About Me**
+
+- 🧪 B.Tech in **Chemical Engineering** at **IIT Jodhpur** (2022–2026)  
+- 💡 Passionate about **Digital Process Modeling**, **AI for Sustainable Manufacturing**, and **Data-Driven Optimization**  
+- 🔭 Majorly inclined towards **Machine Learning** and **Data Science**, with a strong focus on leveraging them to solve complex **industrial problems** through simulation, optimization, and intelligent system design  
+- 📈 GATE 2025 Qualified – **Chemical Engineering**  
+- 🗾 Culturally inspired by Japanese efficiency and innovation in engineering 🇯🇵
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swapn2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swapn2&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+🛠️ **Technical Skills**
+
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Programming** | Python, C/C++, MySQL |
+| **Simulation & Modeling** | Aspen Plus, HYSYS, DWSIM, MATLAB |
+| **ML & Data Science** | Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib |
+| **Web & GUI Development** | Flask, Streamlit, GUI (Tkinter/PyQt), REST APIs |
+| **Tools** | Git, Jupyter, Colab, XAMPP, phpMyAdmin |
+| **Specialized Skills** | Time Series Forecasting, MILP, KNN, ODE Modeling |
+
+---
+
+📚 **Relevant Courses**
+
+- 💻 **ML/DS:** Intro to ML, Application of AI in ChemE, DSA  
+- 🔬 **ChemE Core:** Reaction Engineering, Process Control, Thermodynamics  
+- 📊 **Math & Comp:** Engineering Math, Stats, Optimization, Linear Algebra  
+
+---
+
+🏆 **Achievements**
+
+- 🏅 **Ranked 13th** in Chemical Engineering Department (IIT Jodhpur)  
+- ✅ **GATE 2025 Qualified** (Chemical Engineering)  
+- 🧠 Recognized for innovation in data-centric chemical engineering projects  
+
+---
+
+📫 **Contact Me**
+
+- 📧 Email: [swapngupta13548@gmail.com](mailto:swapngupta13548@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/swapn-gupta-032836256](https://linkedin.com/in/swapn-gupta-032836256)  
+- 💻 GitHub: [github.com/swapn2](https://github.com/swapn2)  
+- 🌐 Website: [example.com](https://example.com)
+
+---
+
+✨ *“Where chemical intuition meets data-driven innovation.”*
