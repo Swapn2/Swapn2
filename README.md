@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Swapn Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Chemical+Engineer+%7C+Aspiring+AI+Engineer;Simulation+%26+Data+Driven+Researcher;Python+%7C+Aspen+%7C+Machine+Learning+%7C+HYSYS" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Simulation+%26+AI+Enthusiast;Chemical+Engineer+%7C+Data+Scientist;Python+%7C+Aspen+HYSYS+%7C+ML+%7C+Streamlit" alt="Typing animation" />
 </p>
+
 
 ---
 
