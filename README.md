@@ -1,66 +1,43 @@
-<h1 align="center">Hi there, I'm Swapn Gupta 👋</h1>
+## Hi there 👋 I am Swapn Gupta!!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Simulation+%26+AI+Enthusiast;Chemical+Engineer+%7C+Data+Scientist;Python+%7C+Aspen+HYSYS+%7C+ML+%7C+Streamlit" alt="Typing animation" />
-</p>
+I have over 3 years of experience in problem-solving and analytics, especially using Excel, SQL, and Data Structures & Algorithms.  
+I’m currently in the final year of my B.Tech in Chemical Engineering at the Indian Institute of Technology, Jodhpur.
 
+## My Current Tech Stack 👨‍💻
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00ADD8?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=deep-learning&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-🎓 **About Me**
+## About Me
+- 🔭 I’m currently working on projects involving ML and LLMs with a focus on understanding Deep Learning and DSA.
+- 🌱 I’m learning Data Science, Machine Learning, Deep Learning, and Generative AI.
+- 👯 I’m looking to collaborate on ML, LLMs, and GenAI projects.
+- 💬 Ask me about SQL, DSA, Machine Learning, and anything data related.
+- 📫 How to reach me: swapngpt@gmail.com
+- 😄 Always building, always learning.
 
-- 🧪 B.Tech in **Chemical Engineering** at **IIT Jodhpur** (2022–2026)  
-- 💡 Passionate about **Digital Process Modeling**, **AI for Sustainable Manufacturing**, and **Data-Driven Optimization**  
-- 🔭 Majorly inclined towards **Machine Learning** and **Data Science**, with a strong focus on leveraging them to solve complex **industrial problems** through simulation, optimization, and intelligent system design  
-- 📈 GATE 2025 Qualified – **Chemical Engineering**  
+## 📈 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapn2&show_icons=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swapn2&theme=radical)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapn2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **GitHub Stats**
+## Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapn2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=swapn2&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapn-gupta-032836256/?trk=opento_sprofile_details)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/swapngupta/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/swapn_gusknp2022)
 
----
-
-🛠️ **Technical Skills**
-
-| Domain | Tools & Technologies |
-|--------|----------------------|
-| **Programming** | Python, C, MySQL |
-| **Simulation & Modeling** | Aspen Plus, HYSYS, DWSIM, |
-| **ML & Data Science** | Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib |
-| **Web & GUI Development** | Flask, Streamlit, GUI (Tkinter/PyQt), REST APIs |
-| **Tools** | Git, Jupyter, Colab, XAMPP, phpMyAdmin |
-| **Specialized Skills** | Time Series Forecasting, KNN, ODE Modeling |
-
----
-
-📚 **Relevant Courses**
-
-- 💻 **ML/DS:** Intro to ML, Application of AI in ChemE, DSA  
-- 🔬 **ChemE Core:** Reaction Engineering, Process Control, Thermodynamics  
-- 📊 **Math & Comp:** Engineering Math, Stats, Optimization, Linear Algebra  
-
----
-
-🏆 **Achievements**
-
-- 🏅 **Ranked 13th** in Chemical Engineering Department (IIT Jodhpur)  
-- ✅ **GATE 2025 Qualified** (Chemical Engineering)  
-- 🧠 Recognized for innovation in data-centric chemical engineering projects  
-
----
-
-📫 **Contact Me**
-
-- 📧 Email: [swapngupta13548@gmail.com](mailto:swapngupta13548@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/swapn-gupta-032836256](https://linkedin.com/in/swapn-gupta-032836256)  
-- 💻 GitHub: [github.com/swapn2](https://github.com/swapn2)  
-- 🌐 Website: [example.com](https://example.com)
-
----
-
-✨ *“Where chemical intuition meets data-driven innovation.”*
+![Profile Views](https://komarev.com/ghpvc/?username=swapn2&color=blue&style=for-the-badge)
