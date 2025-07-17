@@ -15,7 +15,7 @@ I’m currently in the final year of my B.Tech in Chemical Engineering at the In
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00ADD8?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
